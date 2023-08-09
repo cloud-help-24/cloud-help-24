@@ -8,9 +8,13 @@ CNCF/AWS/Oracle/Microsoft Certified
 
 #### Don't hesitate  to contact me 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ihor-khaustov-9a28b3188/)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cloud-help-24@engineer.com)
-[![GitHub]](https://github.com/cloud-help-24)
-[![Freelance]](https://www.upwork.com/freelancers/~012fd5bc43d3887634)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloud-help-24)
+
+[![Freelance](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~012fd5bc43d3887634)
+
 
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/22364382/cloud-help-24)
@@ -31,8 +35,7 @@ CNCF/AWS/Oracle/Microsoft Certified
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
 
-![MongoDB](]https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](]https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
