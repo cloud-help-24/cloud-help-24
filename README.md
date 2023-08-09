@@ -19,6 +19,12 @@ CNCF/AWS/Oracle/Microsoft Certified
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/22364382/cloud-help-24)
 
+### Teaching
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@cloud-help-24)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/cloud-help-24/)
+
+
 #### Favorite tech stack
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -48,7 +54,6 @@ CNCF/AWS/Oracle/Microsoft Certified
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-
 
 
 #### Favorite methodologies
