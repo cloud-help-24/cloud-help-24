@@ -13,11 +13,10 @@ CNCF/AWS/Oracle/Microsoft Certified
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloud-help-24)
 
+### Achivments
+
+[![Certificates](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.credly.com/users/ihor-kha)
 [![Freelance](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~012fd5bc43d3887634)
-
-
-
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/22364382/cloud-help-24)
 
 ### Teaching
 
@@ -56,8 +55,3 @@ CNCF/AWS/Oracle/Microsoft Certified
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
-#### Favorite methodologies
-
-![Agile](https://img.shields.io/badge/Agile-8fc95b?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-71a8cf?style=for-the-badge)
-![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)
