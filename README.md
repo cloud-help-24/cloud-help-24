@@ -9,8 +9,8 @@ CNCF/AWS/Oracle/Microsoft Certified
 #### Don't hesitate  to contact me 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ihor-khaustov-9a28b3188/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cloud-help-24@engineer.com)
-
 [![GitHub]](https://github.com/cloud-help-24)
+[![Freelance]](https://www.upwork.com/freelancers/~012fd5bc43d3887634)
 
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/22364382/cloud-help-24)
